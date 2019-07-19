@@ -1,0 +1,68 @@
+<svg version="1.1" viewBox="0.0 0.0 960.0 540.0" fill="none" stroke="none" stroke-linecap="square" stroke-miterlimit="10"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns="http://www.w3.org/2000/svg">
+<clipPath id="g5d5d59f76c_0_27.0">
+<path d="m0 0l960.0 0l0 540.0l-960.0 0l0 -540.0z" clip-rule="nonzero"/>
+</clipPath>
+<g clip-path="url(#g5d5d59f76c_0_27.0)">
+<path fill="#ffffff" d="m0 0l960.0 0l0 540.0l-960.0 0z" fill-rule="evenodd"/>
+<path fill="#b0b0b0" d="m620.8167 29.1087l174.85486 240.89102l-174.85486 240.89102l104.46295 0l174.82898 -240.89102l-174.82898 -240.89102l-104.46295 0z" fill-rule="evenodd"/>
+<path fill="__COLOR_4__" d="m74.78869 324.2217l124.37032 0l0 3.0517578E-5l536.62 0l-55.450745 76.39859l-481.16925 0l0 -1.2207031E-4l-124.37032 0z" fill-rule="evenodd"/>
+<path fill="__COLOR_5__" d="m74.78864 416.6427l124.37028 0l0 6.1035156E-5l469.53253 0l-55.452637 76.3985l-414.0799 0l0 -6.1035156E-5l-124.37028 0z" fill-rule="evenodd"/>
+<path fill="__COLOR_3__" d="m74.78869 231.80075l124.37032 0l0 4.5776367E-5l548.22833 0l27.731506 38.199234l-27.731506 38.19925l-548.22833 0l0 -3.0517578E-5l-124.37032 0z" fill-rule="evenodd"/>
+<path fill="__COLOR_2__" d="m74.78869 139.37976l124.37032 0l481.16925 0l55.450745 76.39859l-536.62 0l0 -7.6293945E-5l-124.37032 0z" fill-rule="evenodd"/>
+<path fill="__COLOR_1__" d="m74.78864 46.95882l124.37028 0l414.0799 0l55.452637 76.3985l-469.53253 0l-124.37028 0z" fill-rule="evenodd"/>
+</g>
+	<g class="text-group">
+		<text x="380" y="30" fill="__TEXT_COLOR_TIT__" text-anchor="start" style="
+            font-size: __FONT_SIZE_TIT__;
+            font-weight: bold;
+            text-decoration: capitalize;
+        ">__TITLE__</text>
+
+		<text x="112" y="90" fill="__TEXT_COLOR_1__" text-anchor="start" style="
+            font-size: __FONT_SIZE_1__;
+            font-weight: bold;
+        ">__TEXT_1__</text>
+
+		<svg x="560" y="45" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60px" height="82px" viewBox="0 0 83 82" enable-background="new 0 0 83 82" xml:space="preserve">  <image id="image0" width="60" height="82" x="0" y="0"
+        xlink:href="../../images/templates/icon/__ICON_1__.svg" />
+        </svg>
+
+		<text x="112" y="182" fill="__TEXT_COLOR_2__" text-anchor="start" style="
+            font-size: __FONT_SIZE_2__;
+            font-weight: bold;
+        ">__TEXT_2__</text>
+
+        <svg x="626" y="138" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60px" height="82px" viewBox="0 0 83 82" enable-background="new 0 0 83 82" xml:space="preserve">  <image id="image0" width="60" height="82" x="0" y="0"
+        xlink:href="../../images/templates/icon/__ICON_2__.svg" />
+        </svg>
+
+		<text x="112" y="275" fill="__TEXT_COLOR_3__" text-anchor="start" style="
+            font-size: __FONT_SIZE_3__;
+            font-weight: bold;
+        ">__TEXT_3__</text>
+        
+        <svg x="690" y="231" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60px" height="82px" viewBox="0 0 83 82" enable-background="new 0 0 83 82" xml:space="preserve">  <image id="image0" width="60" height="82" x="0" y="0"
+        xlink:href="../../images/templates/icon/__ICON_3__.svg" />
+        </svg>
+
+        <text x="112" y="366" fill="__TEXT_COLOR_4__" text-anchor="start" style="
+            font-size: __FONT_SIZE_4__;
+            font-weight: bold;
+        ">__TEXT_4__</text>
+        
+        <svg x="626" y="320" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60px" height="82px" viewBox="0 0 83 82" enable-background="new 0 0 83 82" xml:space="preserve">  <image id="image0" width="60" height="82" x="0" y="0"
+        xlink:href="../../images/templates/icon/__ICON_4__.svg" />
+        </svg>
+
+        <text x="112" y="460" fill="__TEXT_COLOR_5__" text-anchor="start" style="
+            font-size: __FONT_SIZE_5__;
+            font-weight: bold;
+        ">__TEXT_5__</text>
+        
+        <svg x="560" y="410" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60px" height="82px" viewBox="0 0 83 82" enable-background="new 0 0 83 82" xml:space="preserve">  <image id="image0" width="60" height="82" x="0" y="0"
+        xlink:href="../../images/templates/icon/__ICON_5__.svg" />
+        </svg>
+	</g>
+</svg>

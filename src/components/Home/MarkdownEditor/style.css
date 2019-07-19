@@ -1,0 +1,31 @@
+.markdown-editor {
+    width: 100%;
+    height: 100%;
+    background: lightblue;
+    border-bottom: 1px solid white;
+}
+
+.markdown-editor .title {
+    text-align: center;
+    line-height: 30px;
+    font-size: 15px;
+}
+
+.markdown-editor .input-text {
+    width: 100%;
+    height: calc(100% - 30px);
+    padding: 0 10px 10px 10px;
+    cursor: pointer;
+    overflow: scroll;
+}
+
+.markdown-editor textarea {
+    font-family: monospace;
+    font-size: 14px;
+    width: 100%;
+    height: 100%;
+}
+
+.markdown-editor .hidden {
+    display: none;
+}

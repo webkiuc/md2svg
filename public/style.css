@@ -1,0 +1,154 @@
+body {
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+	overflow-x: hidden;
+}
+
+.header-main {
+	background: #40739e;
+	box-shadow: 0px 2px 5px 0px rgba(138, 131, 131, 1);
+	color: white;
+	height: 56px;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 9999;
+	font-size: 16px;
+}
+
+.header-main .menu-btn {
+	float: left;
+	font-size: 18px;
+	margin: 15px;
+	cursor: pointer;
+}
+
+.header-main .logo {
+	font-size: 1.5rem;
+	font-weight: 500;
+	line-height: 53px;
+	float: left;
+	margin-left: 10px;
+	margin-bottom: 4px;
+}
+
+.header-main a, .header-main a:hover {
+	text-decoration: none;
+	color: white;
+	background: none;
+}
+
+.header-main .nav-item {
+	width: 70px;
+	text-align: center;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background-color: #2778bb;
+}
+
+.header-main .dropdown-menu a {
+	color: black;
+	font-size: 12px;
+}
+
+.header-main .dropdown-menu a:hover {
+	color: white;
+	background: #2778bb;
+}
+
+.dropdown-toggle::after {
+    display:none;
+}
+
+.content-main {
+	padding-top: 60px;
+}
+
+/* SPLITTER PANE */
+
+.Resizer {
+	background: #000;
+	opacity: .2;
+	z-index: 1;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding;
+	background-clip: padding-box;
+}
+
+.Pane {
+	overflow: auto;
+}
+
+.Resizer:hover {
+	-webkit-transition: all 2s ease;
+	transition: all 2s ease;
+}
+
+.Resizer.horizontal {
+	height: 11px;
+	margin: -5px 0;
+	border-top: 5px solid rgba(255, 255, 255, 0);
+	border-bottom: 5px solid rgba(255, 255, 255, 0);
+	cursor: row-resize;
+	width: 100%;
+}
+
+.Resizer.horizontal:hover {
+	border-top: 5px solid rgba(0, 0, 0, 0.5);
+	border-bottom: 5px solid rgba(0, 0, 0, 0.5);
+}
+
+.Resizer.vertical {
+	width: 11px;
+	margin: 0 -5px;
+	border-left: 5px solid rgba(255, 255, 255, 0);
+	border-right: 5px solid rgba(255, 255, 255, 0);
+	cursor: col-resize;
+}
+
+.Resizer.vertical:hover {
+	border-left: 5px solid rgba(0, 0, 0, 0.5);
+	border-right: 5px solid rgba(0, 0, 0, 0.5);
+}
+
+.Resizer.disabled {
+	cursor: not-allowed;
+}
+
+.Resizer.disabled:hover {
+	border-color: transparent;
+}
+
+/* .panel-1 {
+	padding: 0 5px;
+}
+
+.Pane2 {
+	border:	1px solid lightgray;
+	border-width: 0 1px 1px 1px;
+}
+
+.Pane1 .Pane2 {
+	border:	none;
+}
+
+.Pane1 .Pane1 {
+	border:	1px solid lightgray;
+	border-width: 1px 0 1px 1px;
+}
+
+.Pane1 .Pane2 .Pane1 {
+	border:	1px solid lightgray;
+	border-width: 1px 0 1px 1px;
+	margin-left: 5px;
+}
+
+.Pane1 .Pane2 .Pane2 {
+	border:	1px solid lightgray;
+	margin-left: 5px;
+} */
+

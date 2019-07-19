@@ -1,0 +1,19 @@
+.template-selector {
+    padding: 5px 10px;
+    width: 100%;
+    background: lightblue;
+    border-bottom: 1px solid white;
+    font-size: 12px;
+}
+
+.template-selector .inner {
+    margin: 10px;
+}
+
+.template-selector label {
+    font-weight: bold;
+}
+
+.template-selector select {
+    font-size: 12px;
+}

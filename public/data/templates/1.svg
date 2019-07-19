@@ -1,0 +1,63 @@
+<svg version="1.1" viewBox="0.0 0.0 960.0 540.0" fill="none" stroke="none" stroke-linecap="square" stroke-miterlimit="10"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://www.w3.org/2000/svg">
+	<clipPath id="p.0">
+		<path d="m0 0l960.0 0l0 540.0l-960.0 0l0 -540.0z" clip-rule="nonzero"/>
+	</clipPath>
+	<g clip-path="url(#p.0)">
+		<path fill="__COLOR_2__" d="m243.81102 497.5433l236.18898 -407.0866l236.18896 407.0866z" fill-rule="evenodd"/>
+		<path stroke="#ffffff" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="butt" d="m243.81102 497.5433l236.18898 -407.0866l236.18896 407.0866z" fill-rule="evenodd"/>
+		<path fill="#000000" fill-opacity="0.0" d="m479.55905 343.2756l0.4409485 154.2677" fill-rule="evenodd"/>
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m479.55905 343.2756l0.4409485 154.2677" fill-rule="evenodd"/>
+		<path fill="__COLOR_3__" d="m480.45932 498.063l0 -403.49606l235.71652 403.49606z" fill-rule="evenodd"/>
+		<path stroke="#ffffff" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="butt" d="m480.45932 498.063l0 -403.49606l235.71652 403.49606z" fill-rule="evenodd"/>
+		<path fill="__COLOR_1__" d="m333.73227 343.2756l145.82678 -252.81891l145.82675 252.81891z" fill-rule="evenodd"/>
+		<path stroke="#ffffff" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="butt" d="m333.73227 343.2756l145.82678 -252.81891l145.82675 252.81891z" fill-rule="evenodd"/>
+		<path fill="#000000" fill-opacity="0.0" d="m317.09076 415.35626l-79.93701 0" fill-rule="evenodd"/>
+		<path stroke="__COLOR_4__" stroke-width="4.0" stroke-miterlimit="800.0" stroke-linecap="butt" d="m317.09076 415.35626l-64.77701 0" fill-rule="evenodd"/>
+		<path fill="__COLOR_4__" stroke="__COLOR_4__" stroke-width="4.0" stroke-linecap="butt" d="m239.15375 415.35626c0 -3.6340332 2.9459686 -6.580017 6.580002 -6.580017c3.6340332 0 6.580002 2.945984 6.580002 6.580017c0 3.6340332 -2.9459686 6.5799866 -6.580002 6.5799866c-3.6340332 0 -6.580002 -2.9459534 -6.580002 -6.5799866z" fill-rule="nonzero"/>
+		<path fill="#000000" fill-opacity="0.0" d="m413.09076 247.35626l-79.93701 0" fill-rule="evenodd"/>
+		<path stroke="__COLOR_4__" stroke-width="4.0" stroke-miterlimit="800.0" stroke-linecap="butt" d="m413.09076 247.35628l-64.77704 0" fill-rule="evenodd"/>
+		<path fill="__COLOR_4__" stroke="__COLOR_4__" stroke-width="4.0" stroke-linecap="butt" d="m335.15375 247.35628c0 -3.6340332 2.9459534 -6.580002 6.5799866 -6.580002c3.6340332 0 6.580017 2.9459686 6.580017 6.580002c0 3.6340332 -2.945984 6.580002 -6.580017 6.580002c-3.6340332 0 -6.5799866 -2.9459686 -6.5799866 -6.580002z" fill-rule="nonzero"/>
+		<path fill="#000000" fill-opacity="0.0" d="m645.15375 415.35626l79.93701 0" fill-rule="evenodd"/>
+		<path stroke="__COLOR_4__" stroke-width="4.0" stroke-miterlimit="800.0" stroke-linecap="butt" d="m645.15375 415.35626l64.77704 0" fill-rule="evenodd"/>
+		<path fill="__COLOR_4__" stroke="__COLOR_4__" stroke-width="4.0" stroke-linecap="butt" d="m723.0908 415.35626c0 3.6340332 -2.945984 6.5799866 -6.580017 6.5799866c-3.6340332 0 -6.580017 -2.9459534 -6.580017 -6.5799866c0 -3.6340332 2.945984 -6.580017 6.580017 -6.580017c3.6340332 0 6.580017 2.945984 6.580017 6.580017z" fill-rule="nonzero"/>
+	</g>
+	<g class="text-group">
+		<text x="479" y="55" fill="__TEXT_COLOR_1__" text-anchor="middle" style="
+            font-size: __FONT_SIZE_1__;
+            font-weight: bold;
+            text-decoration: capitalize;
+        ">__TITLE__</text>
+
+		<text x="479" y="252.3" fill="__TEXT_COLOR_3__" text-anchor="middle" style="
+            font-size: __FONT_SIZE_3__;
+            font-weight: bold;
+        ">__TEXT_INNER_TOP__</text>
+
+		<text x="323" y="252.3" fill="__TEXT_COLOR_2__" text-anchor="end" style="
+            font-size: __FONT_SIZE_2__;
+            font-weight: bold;
+        ">__TEXT_OUTER_TOP__</text>
+
+		<text x="392" y="420" fill="__TEXT_COLOR_3__" text-anchor="middle" style="
+            font-size: __FONT_SIZE_3__;
+            font-weight: bold;
+        ">__TEXT_INNER_LEFT__</text>
+
+		<text x="224" y="420" fill="__TEXT_COLOR_2__" text-anchor="end" style="
+            font-size: __FONT_SIZE_2__;
+            font-weight: bold;
+        ">__TEXT_OUTER_LEFT__</text>
+
+		<text x="566" y="420" fill="__TEXT_COLOR_3__" text-anchor="middle" style="
+            font-size: __FONT_SIZE_3__;
+            font-weight: bold;
+        ">__TEXT_INNER_RIGHT__</text>
+        
+		<text x="736" y="420" fill="__TEXT_COLOR_2__" text-anchor="start" style="
+            font-size: __FONT_SIZE_2__;
+            font-weight: bold;
+        ">__TEXT_OUTER_RIGHT__</text>
+	</g>
+</svg>

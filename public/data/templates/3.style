@@ -1,0 +1,33 @@
+{
+    color-1: #27ac95;
+    color-2: #2e2e2e;
+    color-3: #0f51a9;
+    color-4: #0a67d4;
+    color-5: #1bb1ec;
+
+    text-color-title: #000000;
+    font-size-title: 32px;
+    text-transform-1: uppercase;
+    
+    text-color-1: #27ac95;
+    font-size-1: 30px;
+
+    text-color-2: #1bb1ec;
+    font-size-2: 30px;
+    
+    text-color-3: #0a67d4;
+    font-size-3: 30px;
+
+    text-color-4: #0f51a9;
+    font-size-4: 30px;
+
+    text-color-5: #2e2e2e;
+    font-size-5: 30px;
+
+    text-color-num: #ffffff;
+    font-size-num: 40px;
+
+    text-color-sub: black;
+    font-size-sub: 14px;
+
+}

@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<conio.h>
+#include<iostream>
+using namespace std;
+{
+    cout << "hello" <<endl;
+    getch();
+    return 0;
+}

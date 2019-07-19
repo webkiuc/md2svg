@@ -1,0 +1,27 @@
+.canvas {
+    width: 100%;
+    height: 100%;
+}
+
+.genarated-svg {
+    /* height: 100%; */
+    height: 50%;
+    border: 1px solid gray;
+    /* margin: 10px; */
+    padding: 10px;
+}
+
+.genarated-svg div {
+    height: 100%;
+}
+
+.template-image {
+    height: 50%;
+    border: 1px solid gray;
+    /* margin: 10px; */
+    padding: 10px;
+}
+
+.template-image img {
+    height: 100%;
+}

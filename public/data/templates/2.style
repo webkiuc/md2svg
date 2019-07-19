@@ -1,0 +1,26 @@
+{
+    color-1: #27ac95;
+    color-2: #1bb1ec;
+    color-3: #0a67d4;
+    color-4: #0f51a9;
+    color-5: #2e2e2e;
+    
+    text-color-title: black;
+    font-size-title: 32px;
+    text-transform-title: uppercase;
+
+    text-color-1: white;
+    font-size-1: 17px;
+    
+    text-color-2: white;
+    font-size-2: 17px;
+
+    text-color-3: white;
+    font-size-3: 17px;
+
+    text-color-4: white;
+    font-size-4: 17px;
+
+    text-color-5: white;
+    font-size-5: 17px;
+}
